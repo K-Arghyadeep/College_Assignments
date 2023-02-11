@@ -1,5 +1,6 @@
 #question3
-user_input = int(input("Enter -1 to exit..."))
+print("Enter -1 to exit...")
+user_input = int(input("Enter a number:"))
 p_sum = 0
 p_count = 0
 n_sum = 0
