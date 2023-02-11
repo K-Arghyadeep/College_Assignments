@@ -11,7 +11,7 @@ while(user_input != "end"):
         n_count += 1
     else:
         z_count += 1
-    user_input = input("Enter a number \n Enter nothing to quit\n")
+    user_input = input("Enter a number \n Enter 'end' to quit\n")
 
 print("Number of positive number: ",p_count)
 print("Number of negative number: ",n_count)
