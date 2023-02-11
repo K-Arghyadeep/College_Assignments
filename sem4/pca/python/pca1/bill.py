@@ -1,3 +1,4 @@
+#question 1
 quantity = int(input("Enter the quantity of item sold:\t"))
 cost_per_item = int(input("Enter the value of item:\t"))
 discount_percentage = int(input("Enter the discount percentage:\t"))
