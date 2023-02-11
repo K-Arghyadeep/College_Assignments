@@ -1,4 +1,4 @@
-#Question 2
+#Question2
 sex = input("Enter the sex of the employee (m or f): ")
 salary = int(input("Enter the salary of the employee: "))
 
