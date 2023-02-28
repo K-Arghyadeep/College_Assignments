@@ -1,0 +1,6 @@
+rice = int(input('Enter the quantity of rice[in kgs]:\t'))
+sugar = int(input('Enter the quantity of sugar[in kgs]:\t'))
+print('***LIST OF ITEMS***')
+print('Item\tPrice')
+print('Rice\t',rice*16.75)
+print('Sugar\t',sugar*15)
